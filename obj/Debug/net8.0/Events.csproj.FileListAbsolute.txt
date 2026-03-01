@@ -12,3 +12,4 @@ C:\Users\IBBHome\source\repos\Events\obj\Debug\net8.0\refint\Events.dll
 C:\Users\IBBHome\source\repos\Events\obj\Debug\net8.0\Events.pdb
 C:\Users\IBBHome\source\repos\Events\obj\Debug\net8.0\Events.genruntimeconfig.cache
 C:\Users\IBBHome\source\repos\Events\obj\Debug\net8.0\ref\Events.dll
+C:\Users\IBBHome\source\repos\Events\obj\Debug\net8.0\Events.sourcelink.json
