@@ -75,7 +75,7 @@ class Zufallszahlengenerator
         return zufallszahl;
 
     }
-
+  // git test
     public class ZahlEventArgs : EventArgs
     {
         public int Zahl { get; }
